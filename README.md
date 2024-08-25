@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Docker Micro Service**
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **AWS**, **DevOps**
 
 - 📫 How to reach me **krishnadas.locharla@gmail.com**
 
