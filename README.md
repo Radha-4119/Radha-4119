@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/285ebd9c-9d98-4268-b14f-bb0f0a421535" width="75%" height="auto" />
 <h1 align="center">Hi 👋, I'm Radha Krishna Das L A</h1>
-<h2 align="center">Devops</h2>
+<h2 align="center">AWS - Devops Engineer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radha-4119&label=Profile%20views&color=0e75b6&style=flat" alt="radha-4119" /> </p>
 
