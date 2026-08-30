@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radha-4119" alt="radha-4119" /></a> </p>
 
-- 🔭 I’m currently working on **Docker Micro Service**
+- 🔭 I’m currently working on **Process Specailist**
 
-- 💬 Ask me about **AWS** & **DevOps**
+- 💬 Ask me about **US Healthcare - Pre Authorization** & **Python**
 
 - 📫 How to reach me **krishnadas.locharla@gmail.com**
 
