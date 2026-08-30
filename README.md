@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Process Specailist**
 
-- 💬 Ask me about **US Healthcare - Pre Authorization** & **Python**
+- 💬 Ask me about **US Healthcare - Pre Authorization**, **Python**, **Pandas**, **Numpy**, **Matplotlib**, **Seaborn** & **SQL**
 
 - 📫 How to reach me **krishnadas.locharla@gmail.com**
 
